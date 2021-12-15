@@ -1,0 +1,43 @@
+The system is: Linux - 5.10.16.3-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /bin/x86_64-linux-gnu-gcc-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/c/Users/Alchemist/Desktop/Dev/C++ primer 내용정리/챕터1/Test Ubuntu/build/CMakeFiles/3.16.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /bin/x86_64-linux-gnu-g++-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/c/Users/Alchemist/Desktop/Dev/C++ primer 내용정리/챕터1/Test Ubuntu/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/c/Users/Alchemist/Desktop/Dev/C++ primer 내용정리/챕터1/Test Ubuntu/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_61863 && [1/2] Building C object CMakeFiles/cmTC_61863.dir/testCCompiler.c.o
+[2/2] Linking C executable cmTC_61863
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/c/Users/Alchemist/Desktop/Dev/C++ primer 내용정리/챕터1/Test Ubuntu/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_40e4b && [1/2] Building CXX object CMakeFiles/cmTC_40e4b.dir/testCXXCompiler.cxx.o
+[2/2] Linking CXX executable cmTC_40e4b
+
+
+

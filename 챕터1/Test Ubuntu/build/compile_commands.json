@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/Alchemist/Desktop/Dev/C++ primer 내용정리/챕터1/Test Ubuntu/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -O3 -DNDEBUG   -o CMakeFiles/Test.dir/main.cpp.o -c \"/mnt/c/Users/Alchemist/Desktop/Dev/C++ primer 내용정리/챕터1/Test Ubuntu/main.cpp\"",
+  "file": "/mnt/c/Users/Alchemist/Desktop/Dev/C++ primer 내용정리/챕터1/Test Ubuntu/main.cpp"
+}
+]
